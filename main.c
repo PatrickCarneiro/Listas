@@ -4,7 +4,7 @@ int main(int argc, char *argv[])
 {
   while(1){};
 
-  /* Nao deveria chegar aqui */
+  /* Nao quero chegar aqui */
 
   return EXIT_SUCCESS;
 }
